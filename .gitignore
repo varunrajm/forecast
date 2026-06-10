@@ -1,0 +1,14 @@
+node_modules/
+.next/
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
+*.log
+*.db
+backend/data/
+backend/uploads/
+.env
+.env.local
+.claude/settings.local.json
