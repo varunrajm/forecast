@@ -94,7 +94,7 @@ For deploying to production, it is recommended to:
 1. Run the FastAPI backend behind a reverse proxy (like Nginx) with HTTPS.
 2. Build the Next.js frontend statically or deploy it to Vercel/Netlify.
 3. Configure CORS policies in `backend/app/core/config.py`.
-4. Swap the local SQLite database for PostgreSQL for better concurrency handling.
+4. Swap the local SQLite database for PostgreSQL for better handling.
 
 ---
 
